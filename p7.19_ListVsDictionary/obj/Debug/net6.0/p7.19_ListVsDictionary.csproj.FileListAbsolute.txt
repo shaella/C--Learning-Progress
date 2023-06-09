@@ -1,0 +1,16 @@
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p7_Collections/p7.19_ListVasDictionary/bin/Debug/net6.0/p7.19_ListVsDictionary
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p7_Collections/p7.19_ListVasDictionary/bin/Debug/net6.0/p7.19_ListVsDictionary.deps.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p7_Collections/p7.19_ListVasDictionary/bin/Debug/net6.0/p7.19_ListVsDictionary.runtimeconfig.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p7_Collections/p7.19_ListVasDictionary/bin/Debug/net6.0/p7.19_ListVsDictionary.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p7_Collections/p7.19_ListVasDictionary/bin/Debug/net6.0/ref/p7.19_ListVsDictionary.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p7_Collections/p7.19_ListVasDictionary/bin/Debug/net6.0/p7.19_ListVsDictionary.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p7_Collections/p7.19_ListVasDictionary/obj/Debug/net6.0/p7.19_ListVsDictionary.GlobalUsings.g.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p7_Collections/p7.19_ListVasDictionary/obj/Debug/net6.0/p7.19_ListVsDictionary.csproj.AssemblyReference.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p7_Collections/p7.19_ListVasDictionary/obj/Debug/net6.0/p7.19_ListVsDictionary.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p7_Collections/p7.19_ListVasDictionary/obj/Debug/net6.0/p7.19_ListVsDictionary.AssemblyInfoInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p7_Collections/p7.19_ListVasDictionary/obj/Debug/net6.0/p7.19_ListVsDictionary.AssemblyInfo.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p7_Collections/p7.19_ListVasDictionary/obj/Debug/net6.0/p7.19_ListVsDictionary.csproj.CoreCompileInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p7_Collections/p7.19_ListVasDictionary/obj/Debug/net6.0/p7.19_ListVsDictionary.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p7_Collections/p7.19_ListVasDictionary/obj/Debug/net6.0/ref/p7.19_ListVsDictionary.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p7_Collections/p7.19_ListVasDictionary/obj/Debug/net6.0/p7.19_ListVsDictionary.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p7_Collections/p7.19_ListVasDictionary/obj/Debug/net6.0/p7.19_ListVsDictionary.genruntimeconfig.cache

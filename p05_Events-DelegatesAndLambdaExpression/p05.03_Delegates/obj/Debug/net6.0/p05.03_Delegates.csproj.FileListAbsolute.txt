@@ -1,0 +1,16 @@
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.03_Delegates/bin/Debug/net6.0/p05.03_Delegates
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.03_Delegates/bin/Debug/net6.0/p05.03_Delegates.deps.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.03_Delegates/bin/Debug/net6.0/p05.03_Delegates.runtimeconfig.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.03_Delegates/bin/Debug/net6.0/p05.03_Delegates.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.03_Delegates/bin/Debug/net6.0/ref/p05.03_Delegates.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.03_Delegates/bin/Debug/net6.0/p05.03_Delegates.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.03_Delegates/obj/Debug/net6.0/p05.03_Delegates.GlobalUsings.g.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.03_Delegates/obj/Debug/net6.0/p05.03_Delegates.csproj.AssemblyReference.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.03_Delegates/obj/Debug/net6.0/p05.03_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.03_Delegates/obj/Debug/net6.0/p05.03_Delegates.AssemblyInfoInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.03_Delegates/obj/Debug/net6.0/p05.03_Delegates.AssemblyInfo.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.03_Delegates/obj/Debug/net6.0/p05.03_Delegates.csproj.CoreCompileInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.03_Delegates/obj/Debug/net6.0/p05.03_Delegates.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.03_Delegates/obj/Debug/net6.0/ref/p05.03_Delegates.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.03_Delegates/obj/Debug/net6.0/p05.03_Delegates.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.03_Delegates/obj/Debug/net6.0/p05.03_Delegates.genruntimeconfig.cache

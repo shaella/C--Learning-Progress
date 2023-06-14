@@ -1,0 +1,16 @@
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p12_OptionalParameter-IndexersAndEnums/p12.04_Enums/obj/Debug/net6.0/p12.04_Enums.GlobalUsings.g.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p12_OptionalParameter-IndexersAndEnums/p12.04_Enums/obj/Debug/net6.0/p12.04_Enums.csproj.AssemblyReference.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p12_OptionalParameter-IndexersAndEnums/p12.04_Enums/obj/Debug/net6.0/p12.04_Enums.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p12_OptionalParameter-IndexersAndEnums/p12.04_Enums/obj/Debug/net6.0/p12.04_Enums.AssemblyInfoInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p12_OptionalParameter-IndexersAndEnums/p12.04_Enums/obj/Debug/net6.0/p12.04_Enums.AssemblyInfo.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p12_OptionalParameter-IndexersAndEnums/p12.04_Enums/obj/Debug/net6.0/p12.04_Enums.csproj.CoreCompileInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p12_OptionalParameter-IndexersAndEnums/p12.04_Enums/bin/Debug/net6.0/p12.04_Enums
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p12_OptionalParameter-IndexersAndEnums/p12.04_Enums/bin/Debug/net6.0/p12.04_Enums.deps.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p12_OptionalParameter-IndexersAndEnums/p12.04_Enums/bin/Debug/net6.0/p12.04_Enums.runtimeconfig.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p12_OptionalParameter-IndexersAndEnums/p12.04_Enums/bin/Debug/net6.0/p12.04_Enums.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p12_OptionalParameter-IndexersAndEnums/p12.04_Enums/bin/Debug/net6.0/ref/p12.04_Enums.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p12_OptionalParameter-IndexersAndEnums/p12.04_Enums/bin/Debug/net6.0/p12.04_Enums.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p12_OptionalParameter-IndexersAndEnums/p12.04_Enums/obj/Debug/net6.0/p12.04_Enums.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p12_OptionalParameter-IndexersAndEnums/p12.04_Enums/obj/Debug/net6.0/ref/p12.04_Enums.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p12_OptionalParameter-IndexersAndEnums/p12.04_Enums/obj/Debug/net6.0/p12.04_Enums.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p12_OptionalParameter-IndexersAndEnums/p12.04_Enums/obj/Debug/net6.0/p12.04_Enums.genruntimeconfig.cache

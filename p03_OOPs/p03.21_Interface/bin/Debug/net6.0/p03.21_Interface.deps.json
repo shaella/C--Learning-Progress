@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "p03.21_Interface/1.0.0": {
+        "runtime": {
+          "p03.21_Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p03.21_Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

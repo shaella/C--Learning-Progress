@@ -1,0 +1,16 @@
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p3_OOPs/p03.21_Interface/obj/Debug/net6.0/p03.21_Interface.GlobalUsings.g.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p3_OOPs/p03.21_Interface/obj/Debug/net6.0/p03.21_Interface.csproj.AssemblyReference.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p3_OOPs/p03.21_Interface/obj/Debug/net6.0/p03.21_Interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p3_OOPs/p03.21_Interface/obj/Debug/net6.0/p03.21_Interface.AssemblyInfoInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p3_OOPs/p03.21_Interface/obj/Debug/net6.0/p03.21_Interface.AssemblyInfo.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p3_OOPs/p03.21_Interface/obj/Debug/net6.0/p03.21_Interface.csproj.CoreCompileInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p3_OOPs/p03.21_Interface/bin/Debug/net6.0/p03.21_Interface
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p3_OOPs/p03.21_Interface/bin/Debug/net6.0/p03.21_Interface.deps.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p3_OOPs/p03.21_Interface/bin/Debug/net6.0/p03.21_Interface.runtimeconfig.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p3_OOPs/p03.21_Interface/bin/Debug/net6.0/p03.21_Interface.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p3_OOPs/p03.21_Interface/bin/Debug/net6.0/ref/p03.21_Interface.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p3_OOPs/p03.21_Interface/bin/Debug/net6.0/p03.21_Interface.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p3_OOPs/p03.21_Interface/obj/Debug/net6.0/p03.21_Interface.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p3_OOPs/p03.21_Interface/obj/Debug/net6.0/ref/p03.21_Interface.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p3_OOPs/p03.21_Interface/obj/Debug/net6.0/p03.21_Interface.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p3_OOPs/p03.21_Interface/obj/Debug/net6.0/p03.21_Interface.genruntimeconfig.cache

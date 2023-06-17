@@ -1,0 +1,16 @@
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.17_DictionaryCollectionClass/obj/Debug/net6.0/p07.17_DictionaryCollectionClass.GlobalUsings.g.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.17_DictionaryCollectionClass/obj/Debug/net6.0/p07.17_DictionaryCollectionClass.csproj.AssemblyReference.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.17_DictionaryCollectionClass/obj/Debug/net6.0/p07.17_DictionaryCollectionClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.17_DictionaryCollectionClass/obj/Debug/net6.0/p07.17_DictionaryCollectionClass.AssemblyInfoInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.17_DictionaryCollectionClass/obj/Debug/net6.0/p07.17_DictionaryCollectionClass.AssemblyInfo.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.17_DictionaryCollectionClass/obj/Debug/net6.0/p07.17_DictionaryCollectionClass.csproj.CoreCompileInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.17_DictionaryCollectionClass/bin/Debug/net6.0/p07.17_DictionaryCollectionClass
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.17_DictionaryCollectionClass/bin/Debug/net6.0/p07.17_DictionaryCollectionClass.deps.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.17_DictionaryCollectionClass/bin/Debug/net6.0/p07.17_DictionaryCollectionClass.runtimeconfig.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.17_DictionaryCollectionClass/bin/Debug/net6.0/p07.17_DictionaryCollectionClass.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.17_DictionaryCollectionClass/bin/Debug/net6.0/ref/p07.17_DictionaryCollectionClass.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.17_DictionaryCollectionClass/bin/Debug/net6.0/p07.17_DictionaryCollectionClass.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.17_DictionaryCollectionClass/obj/Debug/net6.0/p07.17_DictionaryCollectionClass.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.17_DictionaryCollectionClass/obj/Debug/net6.0/ref/p07.17_DictionaryCollectionClass.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.17_DictionaryCollectionClass/obj/Debug/net6.0/p07.17_DictionaryCollectionClass.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.17_DictionaryCollectionClass/obj/Debug/net6.0/p07.17_DictionaryCollectionClass.genruntimeconfig.cache

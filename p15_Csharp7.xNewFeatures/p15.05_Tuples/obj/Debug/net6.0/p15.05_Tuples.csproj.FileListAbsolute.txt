@@ -1,0 +1,16 @@
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p15_Csharp7.XnewFeatures/p15.05_Tuples/bin/Debug/net6.0/p15.05_Tuples
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p15_Csharp7.XnewFeatures/p15.05_Tuples/bin/Debug/net6.0/p15.05_Tuples.deps.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p15_Csharp7.XnewFeatures/p15.05_Tuples/bin/Debug/net6.0/p15.05_Tuples.runtimeconfig.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p15_Csharp7.XnewFeatures/p15.05_Tuples/bin/Debug/net6.0/p15.05_Tuples.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p15_Csharp7.XnewFeatures/p15.05_Tuples/bin/Debug/net6.0/ref/p15.05_Tuples.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p15_Csharp7.XnewFeatures/p15.05_Tuples/bin/Debug/net6.0/p15.05_Tuples.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p15_Csharp7.XnewFeatures/p15.05_Tuples/obj/Debug/net6.0/p15.05_Tuples.GlobalUsings.g.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p15_Csharp7.XnewFeatures/p15.05_Tuples/obj/Debug/net6.0/p15.05_Tuples.csproj.AssemblyReference.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p15_Csharp7.XnewFeatures/p15.05_Tuples/obj/Debug/net6.0/p15.05_Tuples.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p15_Csharp7.XnewFeatures/p15.05_Tuples/obj/Debug/net6.0/p15.05_Tuples.AssemblyInfoInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p15_Csharp7.XnewFeatures/p15.05_Tuples/obj/Debug/net6.0/p15.05_Tuples.AssemblyInfo.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p15_Csharp7.XnewFeatures/p15.05_Tuples/obj/Debug/net6.0/p15.05_Tuples.csproj.CoreCompileInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p15_Csharp7.XnewFeatures/p15.05_Tuples/obj/Debug/net6.0/p15.05_Tuples.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p15_Csharp7.XnewFeatures/p15.05_Tuples/obj/Debug/net6.0/ref/p15.05_Tuples.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p15_Csharp7.XnewFeatures/p15.05_Tuples/obj/Debug/net6.0/p15.05_Tuples.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p15_Csharp7.XnewFeatures/p15.05_Tuples/obj/Debug/net6.0/p15.05_Tuples.genruntimeconfig.cache

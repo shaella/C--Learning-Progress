@@ -1,0 +1,16 @@
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.28_Properties/obj/Debug/net6.0/p02.28_Properties.GlobalUsings.g.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.28_Properties/obj/Debug/net6.0/p02.28_Properties.csproj.AssemblyReference.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.28_Properties/obj/Debug/net6.0/p02.28_Properties.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.28_Properties/obj/Debug/net6.0/p02.28_Properties.AssemblyInfoInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.28_Properties/obj/Debug/net6.0/p02.28_Properties.AssemblyInfo.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.28_Properties/obj/Debug/net6.0/p02.28_Properties.csproj.CoreCompileInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.28_Properties/bin/Debug/net6.0/p02.28_Properties
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.28_Properties/bin/Debug/net6.0/p02.28_Properties.deps.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.28_Properties/bin/Debug/net6.0/p02.28_Properties.runtimeconfig.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.28_Properties/bin/Debug/net6.0/p02.28_Properties.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.28_Properties/bin/Debug/net6.0/ref/p02.28_Properties.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.28_Properties/bin/Debug/net6.0/p02.28_Properties.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.28_Properties/obj/Debug/net6.0/p02.28_Properties.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.28_Properties/obj/Debug/net6.0/ref/p02.28_Properties.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.28_Properties/obj/Debug/net6.0/p02.28_Properties.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.28_Properties/obj/Debug/net6.0/p02.28_Properties.genruntimeconfig.cache

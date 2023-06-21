@@ -1,0 +1,16 @@
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.09_If-ElseStatements/bin/Debug/net6.0/p02.09_If-ElseStatements
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.09_If-ElseStatements/bin/Debug/net6.0/p02.09_If-ElseStatements.deps.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.09_If-ElseStatements/bin/Debug/net6.0/p02.09_If-ElseStatements.runtimeconfig.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.09_If-ElseStatements/bin/Debug/net6.0/p02.09_If-ElseStatements.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.09_If-ElseStatements/bin/Debug/net6.0/ref/p02.09_If-ElseStatements.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.09_If-ElseStatements/bin/Debug/net6.0/p02.09_If-ElseStatements.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.09_If-ElseStatements/obj/Debug/net6.0/p02.09_If-ElseStatements.GlobalUsings.g.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.09_If-ElseStatements/obj/Debug/net6.0/p02.09_If-ElseStatements.csproj.AssemblyReference.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.09_If-ElseStatements/obj/Debug/net6.0/p02.09_If-ElseStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.09_If-ElseStatements/obj/Debug/net6.0/p02.09_If-ElseStatements.AssemblyInfoInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.09_If-ElseStatements/obj/Debug/net6.0/p02.09_If-ElseStatements.AssemblyInfo.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.09_If-ElseStatements/obj/Debug/net6.0/p02.09_If-ElseStatements.csproj.CoreCompileInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.09_If-ElseStatements/obj/Debug/net6.0/p02.09_If-ElseStatements.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.09_If-ElseStatements/obj/Debug/net6.0/ref/p02.09_If-ElseStatements.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.09_If-ElseStatements/obj/Debug/net6.0/p02.09_If-ElseStatements.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.09_If-ElseStatements/obj/Debug/net6.0/p02.09_If-ElseStatements.genruntimeconfig.cache

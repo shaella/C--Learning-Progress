@@ -1,0 +1,16 @@
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.08_ControlFlow/obj/Debug/net6.0/p02.08_ControlFlow.GlobalUsings.g.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.08_ControlFlow/obj/Debug/net6.0/p02.08_ControlFlow.csproj.AssemblyReference.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.08_ControlFlow/obj/Debug/net6.0/p02.08_ControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.08_ControlFlow/obj/Debug/net6.0/p02.08_ControlFlow.AssemblyInfoInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.08_ControlFlow/obj/Debug/net6.0/p02.08_ControlFlow.AssemblyInfo.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.08_ControlFlow/obj/Debug/net6.0/p02.08_ControlFlow.csproj.CoreCompileInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.08_ControlFlow/bin/Debug/net6.0/p02.08_ControlFlow
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.08_ControlFlow/bin/Debug/net6.0/p02.08_ControlFlow.deps.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.08_ControlFlow/bin/Debug/net6.0/p02.08_ControlFlow.runtimeconfig.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.08_ControlFlow/bin/Debug/net6.0/p02.08_ControlFlow.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.08_ControlFlow/bin/Debug/net6.0/ref/p02.08_ControlFlow.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.08_ControlFlow/bin/Debug/net6.0/p02.08_ControlFlow.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.08_ControlFlow/obj/Debug/net6.0/p02.08_ControlFlow.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.08_ControlFlow/obj/Debug/net6.0/ref/p02.08_ControlFlow.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.08_ControlFlow/obj/Debug/net6.0/p02.08_ControlFlow.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.08_ControlFlow/obj/Debug/net6.0/p02.08_ControlFlow.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.18_ConversionBetweenArrayListAndDictionary/obj/Debug/net6.0/p07.18_ConversionBetweenArrayListAndDictionary.GlobalUsings.g.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.18_ConversionBetweenArrayListAndDictionary/obj/Debug/net6.0/p07.18_ConversionBetweenArrayListAndDictionary.csproj.AssemblyReference.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.18_ConversionBetweenArrayListAndDictionary/obj/Debug/net6.0/p07.18_ConversionBetweenArrayListAndDictionary.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.18_ConversionBetweenArrayListAndDictionary/obj/Debug/net6.0/p07.18_ConversionBetweenArrayListAndDictionary.AssemblyInfoInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.18_ConversionBetweenArrayListAndDictionary/obj/Debug/net6.0/p07.18_ConversionBetweenArrayListAndDictionary.AssemblyInfo.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.18_ConversionBetweenArrayListAndDictionary/obj/Debug/net6.0/p07.18_ConversionBetweenArrayListAndDictionary.csproj.CoreCompileInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.18_ConversionBetweenArrayListAndDictionary/bin/Debug/net6.0/p07.18_ConversionBetweenArrayListAndDictionary
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.18_ConversionBetweenArrayListAndDictionary/bin/Debug/net6.0/p07.18_ConversionBetweenArrayListAndDictionary.deps.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.18_ConversionBetweenArrayListAndDictionary/bin/Debug/net6.0/p07.18_ConversionBetweenArrayListAndDictionary.runtimeconfig.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.18_ConversionBetweenArrayListAndDictionary/bin/Debug/net6.0/p07.18_ConversionBetweenArrayListAndDictionary.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.18_ConversionBetweenArrayListAndDictionary/bin/Debug/net6.0/ref/p07.18_ConversionBetweenArrayListAndDictionary.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.18_ConversionBetweenArrayListAndDictionary/bin/Debug/net6.0/p07.18_ConversionBetweenArrayListAndDictionary.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.18_ConversionBetweenArrayListAndDictionary/obj/Debug/net6.0/p07.18_ConversionBetweenArrayListAndDictionary.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.18_ConversionBetweenArrayListAndDictionary/obj/Debug/net6.0/ref/p07.18_ConversionBetweenArrayListAndDictionary.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.18_ConversionBetweenArrayListAndDictionary/obj/Debug/net6.0/p07.18_ConversionBetweenArrayListAndDictionary.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.18_ConversionBetweenArrayListAndDictionary/obj/Debug/net6.0/p07.18_ConversionBetweenArrayListAndDictionary.genruntimeconfig.cache

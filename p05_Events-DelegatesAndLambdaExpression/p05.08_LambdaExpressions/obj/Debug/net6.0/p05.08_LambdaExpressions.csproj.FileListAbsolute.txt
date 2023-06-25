@@ -1,0 +1,16 @@
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.08_LambdaExpressions/bin/Debug/net6.0/p05.08_LambdaExpressions
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.08_LambdaExpressions/bin/Debug/net6.0/p05.08_LambdaExpressions.deps.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.08_LambdaExpressions/bin/Debug/net6.0/p05.08_LambdaExpressions.runtimeconfig.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.08_LambdaExpressions/bin/Debug/net6.0/p05.08_LambdaExpressions.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.08_LambdaExpressions/bin/Debug/net6.0/ref/p05.08_LambdaExpressions.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.08_LambdaExpressions/bin/Debug/net6.0/p05.08_LambdaExpressions.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.08_LambdaExpressions/obj/Debug/net6.0/p05.08_LambdaExpressions.GlobalUsings.g.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.08_LambdaExpressions/obj/Debug/net6.0/p05.08_LambdaExpressions.csproj.AssemblyReference.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.08_LambdaExpressions/obj/Debug/net6.0/p05.08_LambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.08_LambdaExpressions/obj/Debug/net6.0/p05.08_LambdaExpressions.AssemblyInfoInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.08_LambdaExpressions/obj/Debug/net6.0/p05.08_LambdaExpressions.AssemblyInfo.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.08_LambdaExpressions/obj/Debug/net6.0/p05.08_LambdaExpressions.csproj.CoreCompileInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.08_LambdaExpressions/obj/Debug/net6.0/p05.08_LambdaExpressions.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.08_LambdaExpressions/obj/Debug/net6.0/ref/p05.08_LambdaExpressions.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.08_LambdaExpressions/obj/Debug/net6.0/p05.08_LambdaExpressions.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p05_Events-DelegatesAndLambdaExpression/p05.08_LambdaExpressions/obj/Debug/net6.0/p05.08_LambdaExpressions.genruntimeconfig.cache

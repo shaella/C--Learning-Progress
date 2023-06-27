@@ -1,0 +1,16 @@
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/Prototype/bin/Debug/net6.0/Prototype
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/Prototype/bin/Debug/net6.0/Prototype.deps.json
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/Prototype/bin/Debug/net6.0/Prototype.runtimeconfig.json
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/Prototype/bin/Debug/net6.0/Prototype.dll
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/Prototype/bin/Debug/net6.0/ref/Prototype.dll
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/Prototype/bin/Debug/net6.0/Prototype.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/Prototype/obj/Debug/net6.0/Prototype.GlobalUsings.g.cs
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/Prototype/obj/Debug/net6.0/Prototype.csproj.AssemblyReference.cache
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/Prototype/obj/Debug/net6.0/Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/Prototype/obj/Debug/net6.0/Prototype.AssemblyInfoInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/Prototype/obj/Debug/net6.0/Prototype.AssemblyInfo.cs
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/Prototype/obj/Debug/net6.0/Prototype.csproj.CoreCompileInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/Prototype/obj/Debug/net6.0/Prototype.dll
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/Prototype/obj/Debug/net6.0/ref/Prototype.dll
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/Prototype/obj/Debug/net6.0/Prototype.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/Prototype/obj/Debug/net6.0/Prototype.genruntimeconfig.cache

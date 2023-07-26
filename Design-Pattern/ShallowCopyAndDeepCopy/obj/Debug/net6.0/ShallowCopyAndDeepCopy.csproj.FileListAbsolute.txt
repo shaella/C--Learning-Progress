@@ -1,0 +1,16 @@
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/ShallowCopyAndDeepCopy/obj/Debug/net6.0/ShallowCopyAndDeepCopy.GlobalUsings.g.cs
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/ShallowCopyAndDeepCopy/obj/Debug/net6.0/ShallowCopyAndDeepCopy.csproj.AssemblyReference.cache
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/ShallowCopyAndDeepCopy/obj/Debug/net6.0/ShallowCopyAndDeepCopy.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/ShallowCopyAndDeepCopy/obj/Debug/net6.0/ShallowCopyAndDeepCopy.AssemblyInfoInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/ShallowCopyAndDeepCopy/obj/Debug/net6.0/ShallowCopyAndDeepCopy.AssemblyInfo.cs
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/ShallowCopyAndDeepCopy/obj/Debug/net6.0/ShallowCopyAndDeepCopy.csproj.CoreCompileInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/ShallowCopyAndDeepCopy/bin/Debug/net6.0/ShallowCopyAndDeepCopy
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/ShallowCopyAndDeepCopy/bin/Debug/net6.0/ShallowCopyAndDeepCopy.deps.json
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/ShallowCopyAndDeepCopy/bin/Debug/net6.0/ShallowCopyAndDeepCopy.runtimeconfig.json
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/ShallowCopyAndDeepCopy/bin/Debug/net6.0/ShallowCopyAndDeepCopy.dll
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/ShallowCopyAndDeepCopy/bin/Debug/net6.0/ref/ShallowCopyAndDeepCopy.dll
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/ShallowCopyAndDeepCopy/bin/Debug/net6.0/ShallowCopyAndDeepCopy.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/ShallowCopyAndDeepCopy/obj/Debug/net6.0/ShallowCopyAndDeepCopy.dll
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/ShallowCopyAndDeepCopy/obj/Debug/net6.0/ref/ShallowCopyAndDeepCopy.dll
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/ShallowCopyAndDeepCopy/obj/Debug/net6.0/ShallowCopyAndDeepCopy.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/Csharp-Learning-Progress/Design-Pattern/ShallowCopyAndDeepCopy/obj/Debug/net6.0/ShallowCopyAndDeepCopy.genruntimeconfig.cache

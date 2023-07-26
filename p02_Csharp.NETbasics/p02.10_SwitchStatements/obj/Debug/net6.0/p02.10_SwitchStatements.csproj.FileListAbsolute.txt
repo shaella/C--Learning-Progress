@@ -1,0 +1,15 @@
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.10_SwitchStatements/bin/Debug/net6.0/p02.10_SwitchStatements
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.10_SwitchStatements/bin/Debug/net6.0/p02.10_SwitchStatements.deps.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.10_SwitchStatements/bin/Debug/net6.0/p02.10_SwitchStatements.runtimeconfig.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.10_SwitchStatements/bin/Debug/net6.0/p02.10_SwitchStatements.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.10_SwitchStatements/bin/Debug/net6.0/p02.10_SwitchStatements.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.10_SwitchStatements/obj/Debug/net6.0/p02.10_SwitchStatements.csproj.AssemblyReference.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.10_SwitchStatements/obj/Debug/net6.0/p02.10_SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.10_SwitchStatements/obj/Debug/net6.0/p02.10_SwitchStatements.AssemblyInfoInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.10_SwitchStatements/obj/Debug/net6.0/p02.10_SwitchStatements.AssemblyInfo.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.10_SwitchStatements/obj/Debug/net6.0/p02.10_SwitchStatements.csproj.CoreCompileInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.10_SwitchStatements/obj/Debug/net6.0/p02.10_SwitchStatements.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.10_SwitchStatements/obj/Debug/net6.0/refint/p02.10_SwitchStatements.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.10_SwitchStatements/obj/Debug/net6.0/p02.10_SwitchStatements.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.10_SwitchStatements/obj/Debug/net6.0/p02.10_SwitchStatements.genruntimeconfig.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.10_SwitchStatements/obj/Debug/net6.0/ref/p02.10_SwitchStatements.dll

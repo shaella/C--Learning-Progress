@@ -1,0 +1,16 @@
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p2.27_ConstAndRead-Only/obj/Debug/net6.0/p2.27_ConstAndRead-Only.GlobalUsings.g.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p2.27_ConstAndRead-Only/obj/Debug/net6.0/p2.27_ConstAndRead-Only.csproj.AssemblyReference.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p2.27_ConstAndRead-Only/obj/Debug/net6.0/p2.27_ConstAndRead-Only.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p2.27_ConstAndRead-Only/obj/Debug/net6.0/p2.27_ConstAndRead-Only.AssemblyInfoInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p2.27_ConstAndRead-Only/obj/Debug/net6.0/p2.27_ConstAndRead-Only.AssemblyInfo.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p2.27_ConstAndRead-Only/obj/Debug/net6.0/p2.27_ConstAndRead-Only.csproj.CoreCompileInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p2.27_ConstAndRead-Only/bin/Debug/net6.0/p2.27_ConstAndRead-Only
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p2.27_ConstAndRead-Only/bin/Debug/net6.0/p2.27_ConstAndRead-Only.deps.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p2.27_ConstAndRead-Only/bin/Debug/net6.0/p2.27_ConstAndRead-Only.runtimeconfig.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p2.27_ConstAndRead-Only/bin/Debug/net6.0/p2.27_ConstAndRead-Only.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p2.27_ConstAndRead-Only/bin/Debug/net6.0/ref/p2.27_ConstAndRead-Only.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p2.27_ConstAndRead-Only/bin/Debug/net6.0/p2.27_ConstAndRead-Only.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p2.27_ConstAndRead-Only/obj/Debug/net6.0/p2.27_ConstAndRead-Only.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p2.27_ConstAndRead-Only/obj/Debug/net6.0/ref/p2.27_ConstAndRead-Only.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p2.27_ConstAndRead-Only/obj/Debug/net6.0/p2.27_ConstAndRead-Only.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p2.27_ConstAndRead-Only/obj/Debug/net6.0/p2.27_ConstAndRead-Only.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.26_StaticVsNon-StaticMembers/obj/Debug/net7.0/p02.26_StaticVsNon-StaticMembers.csproj.AssemblyReference.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.26_StaticVsNon-StaticMembers/obj/Debug/net7.0/p02.26_StaticVsNon-StaticMembers.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.26_StaticVsNon-StaticMembers/obj/Debug/net7.0/p02.26_StaticVsNon-StaticMembers.AssemblyInfoInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.26_StaticVsNon-StaticMembers/obj/Debug/net7.0/p02.26_StaticVsNon-StaticMembers.AssemblyInfo.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.26_StaticVsNon-StaticMembers/obj/Debug/net7.0/p02.26_StaticVsNon-StaticMembers.csproj.CoreCompileInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.26_StaticVsNon-StaticMembers/bin/Debug/net7.0/p02.26_StaticVsNon-StaticMembers
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.26_StaticVsNon-StaticMembers/bin/Debug/net7.0/p02.26_StaticVsNon-StaticMembers.deps.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.26_StaticVsNon-StaticMembers/bin/Debug/net7.0/p02.26_StaticVsNon-StaticMembers.runtimeconfig.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.26_StaticVsNon-StaticMembers/bin/Debug/net7.0/p02.26_StaticVsNon-StaticMembers.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.26_StaticVsNon-StaticMembers/bin/Debug/net7.0/p02.26_StaticVsNon-StaticMembers.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.26_StaticVsNon-StaticMembers/obj/Debug/net7.0/p02.26_StaticVsNon-StaticMembers.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.26_StaticVsNon-StaticMembers/obj/Debug/net7.0/refint/p02.26_StaticVsNon-StaticMembers.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.26_StaticVsNon-StaticMembers/obj/Debug/net7.0/p02.26_StaticVsNon-StaticMembers.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.26_StaticVsNon-StaticMembers/obj/Debug/net7.0/p02.26_StaticVsNon-StaticMembers.genruntimeconfig.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p02_Csharp.NETbasics/p02.26_StaticVsNon-StaticMembers/obj/Debug/net7.0/ref/p02.26_StaticVsNon-StaticMembers.dll

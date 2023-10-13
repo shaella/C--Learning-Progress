@@ -1,0 +1,15 @@
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.20_HowToUseAbstractClassesAndMethods/obj/Debug/net7.0/p03.20_HowToUseAbstractClassesAndMethods.csproj.AssemblyReference.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.20_HowToUseAbstractClassesAndMethods/obj/Debug/net7.0/p03.20_HowToUseAbstractClassesAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.20_HowToUseAbstractClassesAndMethods/obj/Debug/net7.0/p03.20_HowToUseAbstractClassesAndMethods.AssemblyInfoInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.20_HowToUseAbstractClassesAndMethods/obj/Debug/net7.0/p03.20_HowToUseAbstractClassesAndMethods.AssemblyInfo.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.20_HowToUseAbstractClassesAndMethods/obj/Debug/net7.0/p03.20_HowToUseAbstractClassesAndMethods.csproj.CoreCompileInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.20_HowToUseAbstractClassesAndMethods/bin/Debug/net7.0/p03.20_HowToUseAbstractClassesAndMethods
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.20_HowToUseAbstractClassesAndMethods/bin/Debug/net7.0/p03.20_HowToUseAbstractClassesAndMethods.deps.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.20_HowToUseAbstractClassesAndMethods/bin/Debug/net7.0/p03.20_HowToUseAbstractClassesAndMethods.runtimeconfig.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.20_HowToUseAbstractClassesAndMethods/bin/Debug/net7.0/p03.20_HowToUseAbstractClassesAndMethods.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.20_HowToUseAbstractClassesAndMethods/bin/Debug/net7.0/p03.20_HowToUseAbstractClassesAndMethods.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.20_HowToUseAbstractClassesAndMethods/obj/Debug/net7.0/p03.20_HowToUseAbstractClassesAndMethods.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.20_HowToUseAbstractClassesAndMethods/obj/Debug/net7.0/refint/p03.20_HowToUseAbstractClassesAndMethods.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.20_HowToUseAbstractClassesAndMethods/obj/Debug/net7.0/p03.20_HowToUseAbstractClassesAndMethods.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.20_HowToUseAbstractClassesAndMethods/obj/Debug/net7.0/p03.20_HowToUseAbstractClassesAndMethods.genruntimeconfig.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.20_HowToUseAbstractClassesAndMethods/obj/Debug/net7.0/ref/p03.20_HowToUseAbstractClassesAndMethods.dll

@@ -1,0 +1,15 @@
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.18_AbstractClassAndAbstractMethods/bin/Debug/net7.0/p03.18_AbstractClassAndAbstractMethods
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.18_AbstractClassAndAbstractMethods/bin/Debug/net7.0/p03.18_AbstractClassAndAbstractMethods.deps.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.18_AbstractClassAndAbstractMethods/bin/Debug/net7.0/p03.18_AbstractClassAndAbstractMethods.runtimeconfig.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.18_AbstractClassAndAbstractMethods/bin/Debug/net7.0/p03.18_AbstractClassAndAbstractMethods.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.18_AbstractClassAndAbstractMethods/bin/Debug/net7.0/p03.18_AbstractClassAndAbstractMethods.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.18_AbstractClassAndAbstractMethods/obj/Debug/net7.0/p03.18_AbstractClassAndAbstractMethods.csproj.AssemblyReference.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.18_AbstractClassAndAbstractMethods/obj/Debug/net7.0/p03.18_AbstractClassAndAbstractMethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.18_AbstractClassAndAbstractMethods/obj/Debug/net7.0/p03.18_AbstractClassAndAbstractMethods.AssemblyInfoInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.18_AbstractClassAndAbstractMethods/obj/Debug/net7.0/p03.18_AbstractClassAndAbstractMethods.AssemblyInfo.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.18_AbstractClassAndAbstractMethods/obj/Debug/net7.0/p03.18_AbstractClassAndAbstractMethods.csproj.CoreCompileInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.18_AbstractClassAndAbstractMethods/obj/Debug/net7.0/p03.18_AbstractClassAndAbstractMethods.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.18_AbstractClassAndAbstractMethods/obj/Debug/net7.0/refint/p03.18_AbstractClassAndAbstractMethods.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.18_AbstractClassAndAbstractMethods/obj/Debug/net7.0/p03.18_AbstractClassAndAbstractMethods.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.18_AbstractClassAndAbstractMethods/obj/Debug/net7.0/p03.18_AbstractClassAndAbstractMethods.genruntimeconfig.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.18_AbstractClassAndAbstractMethods/obj/Debug/net7.0/ref/p03.18_AbstractClassAndAbstractMethods.dll

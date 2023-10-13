@@ -1,0 +1,15 @@
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.06_StaticVsNon-StaticConstructors/bin/Debug/net7.0/p03.06_StaticVsNon-StaticConstructors
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.06_StaticVsNon-StaticConstructors/bin/Debug/net7.0/p03.06_StaticVsNon-StaticConstructors.deps.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.06_StaticVsNon-StaticConstructors/bin/Debug/net7.0/p03.06_StaticVsNon-StaticConstructors.runtimeconfig.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.06_StaticVsNon-StaticConstructors/bin/Debug/net7.0/p03.06_StaticVsNon-StaticConstructors.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.06_StaticVsNon-StaticConstructors/bin/Debug/net7.0/p03.06_StaticVsNon-StaticConstructors.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.06_StaticVsNon-StaticConstructors/obj/Debug/net7.0/p03.06_StaticVsNon-StaticConstructors.csproj.AssemblyReference.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.06_StaticVsNon-StaticConstructors/obj/Debug/net7.0/p03.06_StaticVsNon-StaticConstructors.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.06_StaticVsNon-StaticConstructors/obj/Debug/net7.0/p03.06_StaticVsNon-StaticConstructors.AssemblyInfoInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.06_StaticVsNon-StaticConstructors/obj/Debug/net7.0/p03.06_StaticVsNon-StaticConstructors.AssemblyInfo.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.06_StaticVsNon-StaticConstructors/obj/Debug/net7.0/p03.06_StaticVsNon-StaticConstructors.csproj.CoreCompileInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.06_StaticVsNon-StaticConstructors/obj/Debug/net7.0/p03.06_StaticVsNon-StaticConstructors.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.06_StaticVsNon-StaticConstructors/obj/Debug/net7.0/refint/p03.06_StaticVsNon-StaticConstructors.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.06_StaticVsNon-StaticConstructors/obj/Debug/net7.0/p03.06_StaticVsNon-StaticConstructors.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.06_StaticVsNon-StaticConstructors/obj/Debug/net7.0/p03.06_StaticVsNon-StaticConstructors.genruntimeconfig.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p03_OOPs/p03.06_StaticVsNon-StaticConstructors/obj/Debug/net7.0/ref/p03.06_StaticVsNon-StaticConstructors.dll

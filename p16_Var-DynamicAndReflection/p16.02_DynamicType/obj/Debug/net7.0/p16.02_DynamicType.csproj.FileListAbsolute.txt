@@ -1,0 +1,15 @@
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p16_Var-DynamicAndReflection/p16.02_DynamicType/bin/Debug/net7.0/p16.02_DynamicType
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p16_Var-DynamicAndReflection/p16.02_DynamicType/bin/Debug/net7.0/p16.02_DynamicType.deps.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p16_Var-DynamicAndReflection/p16.02_DynamicType/bin/Debug/net7.0/p16.02_DynamicType.runtimeconfig.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p16_Var-DynamicAndReflection/p16.02_DynamicType/bin/Debug/net7.0/p16.02_DynamicType.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p16_Var-DynamicAndReflection/p16.02_DynamicType/bin/Debug/net7.0/p16.02_DynamicType.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p16_Var-DynamicAndReflection/p16.02_DynamicType/obj/Debug/net7.0/p16.02_DynamicType.csproj.AssemblyReference.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p16_Var-DynamicAndReflection/p16.02_DynamicType/obj/Debug/net7.0/p16.02_DynamicType.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p16_Var-DynamicAndReflection/p16.02_DynamicType/obj/Debug/net7.0/p16.02_DynamicType.AssemblyInfoInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p16_Var-DynamicAndReflection/p16.02_DynamicType/obj/Debug/net7.0/p16.02_DynamicType.AssemblyInfo.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p16_Var-DynamicAndReflection/p16.02_DynamicType/obj/Debug/net7.0/p16.02_DynamicType.csproj.CoreCompileInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p16_Var-DynamicAndReflection/p16.02_DynamicType/obj/Debug/net7.0/p16.02_DynamicType.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p16_Var-DynamicAndReflection/p16.02_DynamicType/obj/Debug/net7.0/refint/p16.02_DynamicType.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p16_Var-DynamicAndReflection/p16.02_DynamicType/obj/Debug/net7.0/p16.02_DynamicType.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p16_Var-DynamicAndReflection/p16.02_DynamicType/obj/Debug/net7.0/p16.02_DynamicType.genruntimeconfig.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p16_Var-DynamicAndReflection/p16.02_DynamicType/obj/Debug/net7.0/ref/p16.02_DynamicType.dll

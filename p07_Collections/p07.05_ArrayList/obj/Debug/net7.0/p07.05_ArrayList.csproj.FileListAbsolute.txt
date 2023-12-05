@@ -1,0 +1,15 @@
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.05_ArrayList/bin/Debug/net7.0/p07.05_ArrayList
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.05_ArrayList/bin/Debug/net7.0/p07.05_ArrayList.deps.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.05_ArrayList/bin/Debug/net7.0/p07.05_ArrayList.runtimeconfig.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.05_ArrayList/bin/Debug/net7.0/p07.05_ArrayList.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.05_ArrayList/bin/Debug/net7.0/p07.05_ArrayList.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.05_ArrayList/obj/Debug/net7.0/p07.05_ArrayList.csproj.AssemblyReference.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.05_ArrayList/obj/Debug/net7.0/p07.05_ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.05_ArrayList/obj/Debug/net7.0/p07.05_ArrayList.AssemblyInfoInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.05_ArrayList/obj/Debug/net7.0/p07.05_ArrayList.AssemblyInfo.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.05_ArrayList/obj/Debug/net7.0/p07.05_ArrayList.csproj.CoreCompileInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.05_ArrayList/obj/Debug/net7.0/p07.05_ArrayList.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.05_ArrayList/obj/Debug/net7.0/refint/p07.05_ArrayList.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.05_ArrayList/obj/Debug/net7.0/p07.05_ArrayList.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.05_ArrayList/obj/Debug/net7.0/p07.05_ArrayList.genruntimeconfig.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.05_ArrayList/obj/Debug/net7.0/ref/p07.05_ArrayList.dll

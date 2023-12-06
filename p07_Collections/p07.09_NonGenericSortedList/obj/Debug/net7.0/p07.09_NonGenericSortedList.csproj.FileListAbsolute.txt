@@ -1,0 +1,15 @@
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.09_NonGenericSortedList/obj/Debug/net7.0/p07.09_NonGenericSortedList.csproj.AssemblyReference.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.09_NonGenericSortedList/obj/Debug/net7.0/p07.09_NonGenericSortedList.GeneratedMSBuildEditorConfig.editorconfig
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.09_NonGenericSortedList/obj/Debug/net7.0/p07.09_NonGenericSortedList.AssemblyInfoInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.09_NonGenericSortedList/obj/Debug/net7.0/p07.09_NonGenericSortedList.AssemblyInfo.cs
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.09_NonGenericSortedList/obj/Debug/net7.0/p07.09_NonGenericSortedList.csproj.CoreCompileInputs.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.09_NonGenericSortedList/bin/Debug/net7.0/p07.09_NonGenericSortedList
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.09_NonGenericSortedList/bin/Debug/net7.0/p07.09_NonGenericSortedList.deps.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.09_NonGenericSortedList/bin/Debug/net7.0/p07.09_NonGenericSortedList.runtimeconfig.json
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.09_NonGenericSortedList/bin/Debug/net7.0/p07.09_NonGenericSortedList.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.09_NonGenericSortedList/bin/Debug/net7.0/p07.09_NonGenericSortedList.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.09_NonGenericSortedList/obj/Debug/net7.0/p07.09_NonGenericSortedList.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.09_NonGenericSortedList/obj/Debug/net7.0/refint/p07.09_NonGenericSortedList.dll
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.09_NonGenericSortedList/obj/Debug/net7.0/p07.09_NonGenericSortedList.pdb
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.09_NonGenericSortedList/obj/Debug/net7.0/p07.09_NonGenericSortedList.genruntimeconfig.cache
+/home/tanshaella/Documents/FMLX-LearnC#/practice/p07_Collections/p07.09_NonGenericSortedList/obj/Debug/net7.0/ref/p07.09_NonGenericSortedList.dll
